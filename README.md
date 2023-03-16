@@ -17,17 +17,17 @@
         These are some of my Digital Marketing and Cybersecurity projects.
     </p>
     <ul class="work__list">
-        <li>Increased engagement rate</li>
+        <li>Increased page engagement rate</li>
         <li>Ran ads that generated alot of leads and increased sales by 60%</li>
         <li>Vulnerability test did on my project website</li>
         
     </ul>
 
     <div class="work__links">
-        <a href="#" class="link__text">
+        <a href="#"https://drive.google.com/file/d/1crLDLl3Ikf9hIXrtfeqYQZyiSZOM1yrP/view?usp=share_link">
         Visit Site <span>&rarr;</span>
         </a> 
-        <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
+        <a href="https://github.com/SalakoVictoria/portfolio" target="_blank">
         <img src="./images/github.svg" class="work__code" alt="GitHub">
         </a>
     </div>
