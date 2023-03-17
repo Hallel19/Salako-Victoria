@@ -5,7 +5,7 @@
         <span>Salako Victoria</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A digital marketer and cybersecurtiy</p>
+        <p>A Digital marketer and Cybersecurtiy</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
