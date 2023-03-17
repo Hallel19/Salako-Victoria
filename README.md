@@ -2,10 +2,11 @@
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Salako Victoria</span>
+        <span>Hello! Am Salako Victoria</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Digital marketer and Cybersecurtiy</p>
+        <p>A Digital marketer and Cybersecurtiy enthusiast. I have passion for helping businesses to grow.
+        I have a good communication skill, attention to details, team player, goal oriented, adaptable and willing to learn.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
@@ -75,9 +76,11 @@
     </p>
     <ul class="work__list">
         <li>Internet Research</li>
-        <li>Communication</li>
-        <li>Attention to details</li>
-        <li>Ability to learn</li>
+        <li>Social Media Managament</li>
+        <li>Email Marketing</li>
+        <li>Network Administration</li>
+        <li>SEO</li>
+        <li>Content Marketing</li>
     </ul>
 
 <div class="work__box">
